@@ -1,6 +1,5 @@
 ## README
-
-![Demo](https://img.youtube.com/vi/YZi4tSSACdg/0.jpg)](https://youtu.be/YZi4tSSACdg "hnguyen-path-planning")
+[![Demo](https://img.youtube.com/vi/YZi4tSSACdg/0.jpg)](https://youtu.be/YZi4tSSACdg "hnguyen-path-planning")
 
 ## Model Path Generation
 We start with `CarsInLane` that takes the sensor fusion data and partitions the other cars into the `left = 0`, `middle = 1`, `right = 2` lanes.
