@@ -168,7 +168,7 @@ vector<double> getXY(double s, double d, const vector<double> &maps_s, const vec
 
 }
 
-const double SAFE_DISTANCE_AHEAD = 20;
+const double SAFE_DISTANCE_AHEAD = 30;
 const double SAFE_DISTANCE_BEHIND = -20;
 const double MAX_VELOCITY = 49.5;
 const double SWITCH_LANE_VELOCITY = 35.0;
